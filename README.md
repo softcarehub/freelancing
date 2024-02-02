@@ -2,5 +2,5 @@
  
  
 # Basic understanding
-1. I will do freelancing on: Data Analyst, shofify, 
+1. I will do freelancing on: Data Analyst, shofify, Facebook marketing
 
