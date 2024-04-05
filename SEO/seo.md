@@ -1,12 +1,15 @@
 # Table of contents
 
-## SEO Basic
+## SEO Basic idea
 - The Four main types of SEO are on-page, off-page/backlinks, Local SEO and technical seo. 
     1. `On-page SEO:` Includes anything you do with your website's content, such as using relevant keywords. This includes blogs, product copy, and web copy.   
     2. `off-page SEO:` Includes anything you do outside of your website to improve rankings, such as building backlinks. This is also called off-site SEO.  
     3. `Local SEO:` Local SEO strategy for local businesses is one of the most important types of SEO as it helps the business become more visible in local search results on Google.
     Local SEO helps businesses reach the local audience by analyzing their behavior through trillions of searches. If you use local SEO practices, then your local business has the opportunity to rank higher in the search results and the local map pack at the same time. This, in turn, helps grow your business and increase traffic to your website.
     4. `Technical SEO:` Includes anything you do on the technical side of things, such as improving page speed. This includes site indexing to help bot crawling. 
+- In another way seo can be used in two ways: Black hat technique and white hat technique  
+    1. white hat technique: on page, off page/backlinks and technical 
+    2. black hat technique: Don't follow google guidelines for seo. It's use of early ranking of website but at a time it's ruin website ranking.
 - Two types of Google Search results: 1. paid(sponsored) results 2. Organic results by seo
 - First we have to do on-page seo, for on page seo we need to do keyword research..if keyword research good then seo will be good. 
 - Google wants: 
@@ -37,7 +40,7 @@
     - [keyword surfer](https://chromewebstore.google.com/detail/bafijghppfhdpldihckdcadbcobikaca)
 2. Website: keywords generator, google trends keywords collection,keyword difficulties 
     - [ahrefs](https://ahrefs.com/keyword-generator)
-    - [trends google](https://trends.google.com/trends/explore?hl=en)
+    - [trends google](https://trends.google.com/trends/explore?hl=en) 
     - [keyword difficulty tools](https://ahrefs.com/keyword-difficulty) 
     - Youtube, Google ar niche upore side a 
 
@@ -59,3 +62,7 @@
 ## Local seo 
 - `Local seo: `Search result ranking for specific regions 
 - `General seo:` Search result ranking for world wide
+ 
+
+## Seo Gig topic
+- `SEO audit:` An SEO audit is a process that assesses how well a website is optimized for search engines. It is basically an overall “health check” for a website.     
