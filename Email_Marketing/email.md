@@ -17,14 +17,18 @@
 ## Basic of Email Marketing 
 - For email marketing our main goal is to build up relationships and consistent conversation with customers. Personalization is very important. 
 - নিচে দেখব Lead থেকে কিভাবে Buyer এ পরিণত করা যায় তার কিছু Theory. 
-- Keywords: sales funnel
-#### First need lead generation
-- `Lead:` potential buyer/customer of products/services
-- `Return of Investment:` After investment what I get 
-- যত ভাল মানের Lead Generation করা যায়, তত ভাল  Return of investment(ROI) পাওয়া যায় ।
-  - After collect lead then what happened in lead generation cycle 
-  1. `Awareness stage:` First create awareness to the customers so that they give attention products and services
-  2. `Customer considerations stage:` When leads are interested in products and services. Then they share contact information for customers communication 
+- Keywords: sales funnel 
+#### How can I do job as email marketer
+1. Apply as a Email Marketing manager(everything hast to do 1K to 5K dollar)
+2. small small task(mailchimp account creation(25-30 dollar), integration(25-50dollar),list import(20-40 dollar),sig nup form(100-300 dollar) ) 
+
+#### First need lead generation 
+- `Lead:` potential buyer/customer of products/services 
+- `Return of Investment:` After investment what I get  
+- যত ভাল মানের Lead Generation করা যায়, তত ভাল  Return of investment(ROI) পাওয়া যায় । 
+  - After collect lead then what happened in lead generation cycle  
+  1. `Awareness stage:` First create awareness to the customers so that they give attention products and services 
+  2. `Customer considerations stage:` When leads are interested in products and services. Then they share contact information for customers communication  
   3. `Decisions stage:` When leads interested for buy products and services 
 #### Types of lead 
    1. Hot lead Budget authority need time(bant)  all
@@ -84,3 +88,15 @@
 #### Audience কী? List Import করার উপায়
 - csv file upload in csv comma delimited format
 - or copy paste 
+
+#### Mailchimp-এ Sign Up Form তৈরি করা
+- Basic pop up form design(40-50 dollar)
+- form builder, subscriber popup 
+- form builder, form link share  email using button, facebook, twitter, based on website theme form design, instead using form builder can use landing page
+- `embedded form builder:` create code for client's developer 
+- popup form builder 
+
+#### হাতে-কলমে Fiverr-এর Live প্রোজেক্ট করা শিখুন: Editable Email Template ডিজাইন (১ম পার্ট)
+- Two part of this project: part-1: Mailchimp builder part part-2: Mailchimp Design part 
+- For email templates design: Go to content from mailchimp dashboard then click on the email template finally create template 
+- `50 dollar task shared by clint on Fiverr:` 
