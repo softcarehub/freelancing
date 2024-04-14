@@ -160,4 +160,16 @@
    - `Grow your list:` 
 
 #### ধাপে ধাপে শিখুন Mailchimp Report এবং Analytics এর বিষয়াদি
+- we can provide screenshot from analytics report to the client
+
+### Everything about klaviyo for Email Marketing 
+
+#### create klaviyo account and explore dashboard 
 - 
+#### ইন্টারফেস এ Custom Font যোগ করার উপায়
+- 
+
+
+### Email Marketing with Bariul 
+1. Importance of Email Marketing for Expand Business or why email marketing?
+2. 
