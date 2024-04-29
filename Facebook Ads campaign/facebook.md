@@ -54,7 +54,7 @@
         - `custom audience:` Target and Retarget Customers and leads. Already interacted with my business. 
         - `Lookalike audience:` 
     3. `ADs:`(image,video,caption,creative) creative, image, video, caption... For example: For male audience I want to set 3 creative sandal, sneakers and formal shoe. For female audience I want to set 3 creative for female audience need and so on. 
-
+- `Facebook Pixel:` facebook business manager will provide a code then using this code implementation with client website every page by developers. Extension for `meta pixel helper `
 #### Facebook Reels 
 - There two types of ads on Facebook Reels 
     1. Overlay ad

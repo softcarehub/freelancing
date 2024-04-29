@@ -163,7 +163,7 @@
 - we can provide screenshot from analytics report to the client
 
 ### Everything about klaviyo for Email Marketing 
-
+-
 #### create klaviyo account and explore dashboard 
 - 
 #### ইন্টারফেস এ Custom Font যোগ করার উপায়
