@@ -236,4 +236,20 @@
 - `Delivery and deliverability issues:` Deliverability is not guaranteed. Many email providers (think Gmail or Outlook) use spam filters. To run effective email marketing campaigns, you must contend with delivery and deliverability issues.
 
 ### The Fundamentals of Email Marketing
+- `Stay Human:`Showing your human side is an absolute must if you want to gain loyal customers and increase conversions. Why? Because research shows that readers are 26 percent more likely to open personalized subject lines. Consumers like to feel that you’re talking to them personally. The way you address them can make all the difference.
+-` Use Engaging Titles, But Don’t Bait and Switch:` Interesting subject titles are crucial to increasing email open rates, but keep them on topic and non-spammy. If users feel duped, they’re likely to unsubscribe or mark your message as spam, which impacts deliverability.
+   - To prevent this, concentrate on creating subject lines that reflect the content of your emails and use action-oriented language. It’s OK to use emails that cause a sense of urgency or excitement, but avoid exaggeration.
+   - Use subject lines like:
+
+      Don’t miss out on this limited time offer!
+      Join the community today and exclusive perks
+      Last chance to save
+      You’re invited
+      Just ensure you use accurate headlines so you don’t disappoint subscribers when they click through.
+- `Keep Messages Short:` Many consumers read their emails on a mobile device, so keep your copy concise and to the point. One suggestion is to keep your emails between 50 and 125 words. It’s also worth noting that emails of up to 50 words can have up to a 50 percent conversion rate, according to Campaign Monitor.If you need to add more info for context, then use easy-to-scan bullet points or numbered lists.Direct users to a blog post or landing page if you need to share a ton of information. Doing this keeps your emails concise and lets readers access the content in their own time. 
+- `Ask Permission and Deliver On Your Promises: ` Never buy email lists—that is illegal in most cases and won’t deliver ROI. If you offer a great deal or high-quality content, make sure to deliver just that. 
+If you do buy an email list, know that you’re likely to get a low response rate. Why? Because you’re reaching out to people who haven’t opted in and have little interest in your offer.
+A better approach is creating your email list organically by providing valuable content, tailored offers, or incentives. To improve engagement, don’t just try to sell. Instead, draw people in with stories or solutions to their problems.
+Finally, add a double-opt-in for your new subscribers, and make it easy for your list to unsubscribe.
+### Getting Started With Email Marketing 
 - 
