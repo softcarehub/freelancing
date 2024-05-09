@@ -163,13 +163,77 @@
 - we can provide screenshot from analytics report to the client
 
 ### Everything about klaviyo for Email Marketing 
--
+- 
 #### create klaviyo account and explore dashboard 
 - 
 #### ইন্টারফেস এ Custom Font যোগ করার উপায়
+- klaviyo custom font 20 dollar 
 - 
+#### Shopify-এ Klaviyo যেভাবে Integrate করবেন 
+- 
+#### Klaviyo তে List Import ও Segmentation এর উপায় 
+- 
+#### মজায় মজায় তৈরি করি Customize Pop-up Form
+- 
+#### Klaviyo-তে নিমিষেই ডিজাইন করুন Editable Email Template
+- client er account e kaj korte hobe or client er thaika collaboration access niye kaj korte hobe 
 
+### প্রফেশনাল কাজের জন্য Custom Email Template ডিজাইন
 
-### Email Marketing with Bariul 
-1. Importance of Email Marketing for Expand Business or why email marketing?
-2. 
+#### প্রোফেশনাল Email Template ডিজাইন এর সেরা ৩টি ওয়েবসাইট
+- https://unsplash.com/
+- https://www.pexels.com/
+- https://www.freepik.com/
+#### Custom Design সংক্রান্ত কিছু গুরুত্বপূর্ণ Tools
+1. Canva
+2. figma 
+3. Adobe photoshop 99% 
+4. Adobe Ilustrator 
+#### মজায় মজায় শিখি Canva দিয়ে Banner Design
+- 
+#### Canva দিয়ে সহজেই ডিজাইন করি GIF Animation Banner
+- 
+#### ডিজাইনের জন্য একটুখানি Adobe Photoshop শিখি
+- 
+#### Photoshop দিয়ে প্রোফেশনাল Email Banner ডিজাইন
+- 
+## Email Marketing with Bariul 
+1. Importance of Email Marketing for Expand Business or why email marketing? 
+2.  
+
+## My email marketing Book 
+### Keywords 
+- Before you start sending emails, you’ll need to start building your list. Collect email addresses by offering free incentives like checklists, templates, or eBooks in exchange for contact information.
+- 
+### What's email marketing?
+- Email marketing is a digital marketing strategy that involves sending promotional messages or content to subscribers via email. This allows marketers to nurture relationships, generate leads, and drive sales.
+### Why Is Email Marketing Important?
+- Despite the rise of social media, people use email more than other platforms.
+- Email marketing builds and strengthens customer relationships over time. That’s vital to growing your business because many consumers don’t buy at their first interaction.
+- Highly targeted: Email segmentation allows you to target customers effectively, meaning they’re more likely to convert.
+- Good for click-throughs: Emails provide a direct route to your website and can boost sales. Depending on the type of marketing message.
+- According to HubSpot, four out of five marketers say they’d rather give up social media than email marketing.
+
+### How email marketing works?
+- An effective email marketing campaign requires three essential elements:
+   1. An Email List: An email list is a database of subscribers who have agreed to let you send them emails.To build successful email campaigns, you need a list of active, engaged email users.There are many ways to build an email list. One of the easiest is to create a lead magnet (also called an offer) that your target audience is interested in. A common example is offering a coupon in exchange for email addresses.
+   2. An Email Service Provider: An email service provider (ESP), also known as an email marketing platform, is software that helps you manage your email list and design and execute automated email campaigns.You can use an ESP to create automatic triggers when your audience completes specific actions, such as sending a cart reminder if a user adds an item to their cart and doesn’t check out. These triggers enable you to personalize interactions to improve engagement and open rates.
+   3. Clearly Defined Goals: 
+- To execute an effective email marketing campaign, your email list, ESP, and goals must align. Then, you can get to work:
+### what can we do by email marketing?
+- lead generation, sales, and content marketing.
+
+### Advantages of Email Marketing
+- `It’s permission-based: `When a customer trusts you with their email address, it’s the virtual equivalent of being given the keys to their house. Gaining permission to enter rather than showing up uninvited increases the chances of engagement and conversion.
+- `It provides direct access to your audience:` You can communicate directly with subscribers on their schedules. Plus, because most people check email multiple times daily, subscribers are more likely to view your message.
+- `Email provides more control:` With most other marketing platforms, you don’t own the platform. If the platform ceases to exist, all your hard work sinks with it. If Google or Facebook updates their algorithm, your reach could take a hit. However, with email, you own the relationships you forge with your subscribers.
+- `It offers more personalization capabilities:` You can use demographic or psychographic data to create personalized and hyper-targeted campaigns. Research shows segmented and personalized campaigns increase revenue by as much as 760 percent.
+- `It’s easy to measure success:` Measuring the effectiveness of a marketing campaign is crucial, and automated email marketing makes measuring your campaign a breeze.
+- `It’s scalable:` Email marketing campaigns can easily scale as your audience grows without straining your resources or compromising quality.
+
+### Disadvantages of Email Marketing 
+- `You need an email list:` For email marketing campaigns to be effective, you must already have an email list. Building an email list can be tricky and takes time.
+- `Delivery and deliverability issues:` Deliverability is not guaranteed. Many email providers (think Gmail or Outlook) use spam filters. To run effective email marketing campaigns, you must contend with delivery and deliverability issues.
+
+### The Fundamentals of Email Marketing
+- 
