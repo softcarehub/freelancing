@@ -197,6 +197,12 @@
 - 
 #### Photoshop দিয়ে প্রোফেশনাল Email Banner ডিজাইন
 - 
+
+### Content writing for Email Template 
+#### অল্প সময়েই তৈরি করুন Email লেখার Basic Content
+-  
+
+
 ## Email Marketing with Bariul 
 1. Importance of Email Marketing for Expand Business or why email marketing? 
 2.  
@@ -252,4 +258,24 @@ If you do buy an email list, know that you’re likely to get a low response rat
 A better approach is creating your email list organically by providing valuable content, tailored offers, or incentives. To improve engagement, don’t just try to sell. Instead, draw people in with stories or solutions to their problems.
 Finally, add a double-opt-in for your new subscribers, and make it easy for your list to unsubscribe.
 ### Getting Started With Email Marketing 
-- 
+- If you open your email inbox right now, there’s a good chance at least half your messages are email marketing
+
+### Decide How to Segment Your Email Marketing List
+- If you’re unfamiliar with the term, email segmentation is the practice of splitting up your email list into more targeted groups.
+   - Here are a few ways to segment your list:
+      Customer list (in comparison to leads who haven’t bought)
+      Newsletter subscribers
+      Daily email list (in comparison to weekly, bi-weekly, monthly, etc.)
+      Demographics, such as age, location, or job title
+      Interests, such as marketing or sales topics
+- Email responders allow you to segment your audience based on their interests and behaviors. 
+
+### What Is Automated Email Marketing?
+- Automated email marketing is a series of emails you automatically send to your prospects or customers. Using an autoresponder, you can schedule emails to send based on your audience’s interactions with your business.
+- When to Use Automated Email Marketing
+   - ` Abandoned Carts:` Abandoned carts are highly frustrating. The person has gotten so close to making a purchase, yet you’ve lost them at the last moment. There are many reasons why people abandon carts, but a common one is that they’re not quite ready to buy yet. Just because someone isn’t ready to buy today doesn’t mean they won’t be soon, and an automated email is a perfect way to keep them engaged. When someone abandons their cart, you can schedule an email to go out to them, prompting them to return and complete their purchase. The average cart abandonment rate is estimated to be 77.13 percent, so bringing people back to your checkout page through well-timed emails can be invaluable. 
+   - `Sending Automated Email Newsletters to Subscribers:` Once someone leaves your website, you may never see them again. If you’ve got their email address, you’ve got an opportunity to keep the connection alive and build a relationship (hopefully until they become a repeat customer). Just having someone’s email doesn’t achieve this, though, and instead, you’ve got to be able to offer something valuable.In the case of a newsletter, you’re offering your amazing content to grow the relationship and keep bringing people back to your website.
+   -  `Promotional Emails:` 
+   - `Welcome Emails:` When someone signs up for your email communication, it’s a good idea to send out a welcome email. Of course, you can’t be on your computer all the time, monitoring the moment everyone signs up for emails, so this is something that is best to automate. It allows you to set expectations and explain the value proposition of receiving your emails. Once someone has a good idea of what they’re going to receive from your emails, they’re more likely to open them and interact with your content. 
+   - `Automatic Replies to Customer Complaints:` When someone has a complaint, they want to be assured you’re taking it seriously. The longer they wait for a response, the more their frustration builds. You can’t be monitoring your inbox 24/7, so it’s just not possible to be able to respond to each complaint right away. What you can do is set up an automated email that explains your complaint process and ensures you’re working on fixing the issue. This gives people confidence that you’re taking their complaints seriously, and they can expect a response in due course.
+   - `When to Not Use Automated Emails:` 

@@ -1,5 +1,5 @@
 # Table of Contents
- 
+- [List of due task](#list-of-due-task)
  
 # Basic understanding
 1. I will do freelancing on: Data Analyst, shofify, Facebook marketing
@@ -18,3 +18,6 @@
 - Generative AI, or generative artificial intelligence, is a machine learning technique that uses algorithms to create new content like images, text, audio, music, and videos. 
 - Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music. It’s powered by machine learning (ML) models—very large models pre-trained on vast amounts of data and commonly referred to as foundation models (FMs). 
 - Generative AI app builders 
+
+## List of due task
+- Portfolio website live with hosting project
