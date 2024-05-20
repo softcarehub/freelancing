@@ -204,9 +204,10 @@
 
 
 ## Email Marketing with Bariul 
+0. What's email marketing? 
 1. Importance of Email Marketing for Expand Business or why email marketing? 
-2.  
-
+2. Gig create email marketing 
+ 
 ## My email marketing Book 
 ### Keywords 
 - Before you start sending emails, you’ll need to start building your list. Collect email addresses by offering free incentives like checklists, templates, or eBooks in exchange for contact information.
@@ -279,3 +280,33 @@ Finally, add a double-opt-in for your new subscribers, and make it easy for your
    - `Welcome Emails:` When someone signs up for your email communication, it’s a good idea to send out a welcome email. Of course, you can’t be on your computer all the time, monitoring the moment everyone signs up for emails, so this is something that is best to automate. It allows you to set expectations and explain the value proposition of receiving your emails. Once someone has a good idea of what they’re going to receive from your emails, they’re more likely to open them and interact with your content. 
    - `Automatic Replies to Customer Complaints:` When someone has a complaint, they want to be assured you’re taking it seriously. The longer they wait for a response, the more their frustration builds. You can’t be monitoring your inbox 24/7, so it’s just not possible to be able to respond to each complaint right away. What you can do is set up an automated email that explains your complaint process and ensures you’re working on fixing the issue. This gives people confidence that you’re taking their complaints seriously, and they can expect a response in due course.
    - `When to Not Use Automated Emails:` 
+
+## Email Marketing 5 mistakes
+- Mobile Responsive 
+- Personalized with Merge tag
+- Uncleared Subjectline 
+- Segmentation 
+- Sending email time
+## For getting 5 star ratting
+- time maintain
+- quality maintain
+- presentation maintain like mockup
+- Thanks for help me for doing this project
+
+## Out of marketplace work
+- Behance 
+- Linkedin 
+- Dribble 
+- Facebook 
+- Pinterest
+## Email Marketing সংক্রান্ত ১০টি Short Term এর ব্যাখ্যা
+1. `CRM:`  Customer Relationship Management 
+2. `UX:` User Experience 
+3. `CTA:` Call to action 
+4. `B2B:` Business to Business 
+5. `B2C:` Business to Customer 
+6. `CTR:` Click Through Rate
+7. `KPI:` Key Performance Indicators 
+8. `Opt-In (Double & Single):` Subscribing 
+9. `Opt-Out:` Unsubscribing
+10. `ROI:` Return on Investment 
