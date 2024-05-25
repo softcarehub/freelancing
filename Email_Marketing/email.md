@@ -310,3 +310,10 @@ Finally, add a double-opt-in for your new subscribers, and make it easy for your
 8. `Opt-In (Double & Single):` Subscribing 
 9. `Opt-Out:` Unsubscribing
 10. `ROI:` Return on Investment 
+
+## Email Marketing passive income 
+- themeforest
+- youtube
+- dribble 
+- freepic 
+- 
