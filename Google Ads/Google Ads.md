@@ -1,5 +1,7 @@
 # Table  of content 
 - [Basic Understanding](#basic-understanding)
+- [Types of Google Ads](#types-of-google-ads)
+- [How to create google ads](#how-to-create-google-ads)
 
 ## Keywords
 - `Advertiser:` Advertisers are businesses or individuals who create and manage google ads campaigns. They use the platform to promote their products, services or content.
@@ -17,4 +19,29 @@
 - `Google AdSense:` AdSense is a program by Google that allows website owners to display google ads on their sites. It serves as a way for advertisers to reach audiences on various websites that are part of the adSense network.
 - `Google Analytics:` Google Analytics integrators with google ads, providing advertisers with detailed insights into website traffic, user behavior, and conversions generated from their ads. Advertisers can measure the performance of their campaigns and make data-driven decisions. 
 - `Google Ads Editor:` Google Ads Editor is a desktop application that advertisers to manage their campaigns offline. It provides advanced editing capabilities, making it easier to make bulk changes to campaigns. 
+
+## Types of Google Ads 
+1. `Responsive Search Ads:` These are text-based ads in search result pages (SERPs) on google 
+2. `Performance Max ads:` Google Describes Performance Max as a kind of combo of all their best machine learning algorithms and AI-assisted ad bidding strategies, combined with data points you provide, like custom audiences.
+3. `Discovery Ads:` Where people are most likely researching products or watching products review. Typically, this includes YouTube homepage and watch next page ads, Gmail inbox ads, and in Google searches matching the intent to shop. It's like a display ad mixed with a shopping ad.
+4. `Display ads:` Display ads are images or videos that appear across millions of websites worldwide who are part of google's display network as well as Google sites, like YouTube. 
+5. `Shopping Ads:` Shopping ads use your product catalog to showcase e-commerce optimized ads across the google search and display network, youtube and Gmail. 
+6. `App Ads:` App ads drive viewers to download your iOS or Android app, through there are several additional campaigns feature available to android app campaign vs iOS. 
+7. `Smart Campaign Ads:` 
+8. `Demand Gen:` 
+9. `YouTube ads:` YouTube ads play either before you watch a video, during it, or appear in other places where on youtube, such as homepage and the subscription, watch later, and playlist pages.
+
+## How to create google ads 
+- Open google ads account
+- create campaign 
+- Set a bidding strategy 
+- Target Audience
+- create ads
+- A URL
+- Up to 15 headline options 
+- Up to 4 descriptions
+- Images 
+
+## 
 ## Basic understanding 
+- 
