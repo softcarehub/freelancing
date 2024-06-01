@@ -21,8 +21,8 @@
 - `Google Ads Editor:` Google Ads Editor is a desktop application that advertisers to manage their campaigns offline. It provides advanced editing capabilities, making it easier to make bulk changes to campaigns. 
 
 ## Types of Google Ads 
-1. `Responsive Search Ads:` These are text-based ads in search result pages (SERPs) on google 
-2. `Performance Max ads:` Google Describes Performance Max as a kind of combo of all their best machine learning algorithms and AI-assisted ad bidding strategies, combined with data points you provide, like custom audiences.
+1. `Responsive Search Ads/SEM:` These are text-based ads in search result pages (SERPs) on google 
+2. `Performance Max ads:` Google Describes Performance Max as a kind of combo of all their best machine learning algorithms and AI-assisted ad bidding strategies, combined with data points you provide, like custom audiences. combination of all campaign. 
 3. `Discovery Ads:` Where people are most likely researching products or watching products review. Typically, this includes YouTube homepage and watch next page ads, Gmail inbox ads, and in Google searches matching the intent to shop. It's like a display ad mixed with a shopping ad.
 4. `Display ads:` Display ads are images or videos that appear across millions of websites worldwide who are part of google's display network as well as Google sites, like YouTube. 
 5. `Shopping Ads:` Shopping ads use your product catalog to showcase e-commerce optimized ads across the google search and display network, youtube and Gmail. 
@@ -37,7 +37,7 @@
 - Set a bidding strategy 
 - Target Audience
 - create ads
-- A URL
+- A URL                                     
 - Up to 15 headline options 
 - Up to 4 descriptions
 - Images 
