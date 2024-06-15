@@ -1,9 +1,11 @@
 # Table of Contents  
 - Projects
     - [Newspaper website](#newspaper-website)
+    - [Blog Website](#blog-website)
+    - [WordPress installation and run WebSite in localhost](#wordpress-installation-and-run-website-in-localhost)
 ## Gigs 
-- I will transfer, migrate your website to a new domain or hosting
-- I will create wordpress website with gutenberg and kadence block
+- I will transfer, migrate your website to a new domain or hosting 
+- I will create wordpress website with gutenberg and kadence block 
 
 ## set up new wordpress project basic settings
 - when creating a new wordpress project then delete post, page, appearance, plugins by default works
@@ -121,7 +123,7 @@
 - using default theme customization change logo and home page different section customization
 -   
 
-## Some import things Newspaper and Blog website 
+## Some important things Newspaper and Blog website 
 - Guest Posting: -`user submitted post` 
 - Cookies notice:  `cookieYes` 
 - Sassy social media links: `Sassy` 
@@ -132,7 +134,59 @@
 ## Local Host to Hosting Server website migration 
 - WordPress Website migrations or transfer 
 - plugin: `All in one WP Migration` 
+## Blog Website 
+- :heavy_check_mark: **CheckList:**  
+- [x] blog theme install,
+- [x] SEO friendly Blog post using chatGPT, 
+- [x] features add using different plugins,
+- [x] Affiliate offers of promote different products in website,
+- [x] show cookie in website : all using free resources,
+- [x] How to write a perfect SEO friendly Blog Post?,
+- [x] How to promote affiliate product & offers?,
+- [x] How to make website GDPR(General Data Protection Regulation) 
+- :beginner: **Theme**
+    - `Astra:` 
+- :electric_plug: **Plugins:**
+    - `Easy Table of Contents:` 
+    - `Rank Math SEO:` 
+    - `cookieYes:` 
+    - `Affiliate coupons:`
+
+- set up project
+- `cookies:` Cookies are small pieces of text sent to your browser by a website you visit. They help that website remember information about your visit, which can both make it easier to visit the site again and make the site more useful to you.
+    
+    
+
+
 
 ## Script for marketing my work / how to sell my work
 - I know how to transfer/migrate your website from local server to hosting server. Maybe you know that WordPress page builder gutenberg is more faster than elementor page builder, I know how to use gutenberg wordpress default editor perfectly.
- 
+
+
+
+
+
+
+
+## Sample of note taking in readme file
+- _Blog site outline_: **Hello** ~~mistaken~~ ***Bold And Italic*** 
+> Text is quote
+```sh
+  hello
+```
+- This is link [10 minute school website](https://10minuteschool.com/en/?utm_source=google&utm_medium=cpc&utm_campaign=na_branddefence_search_rsa_maxconversions%28tcpa%29_conversion&utm_content=txt_na_na&utm_term=1p_detailed_demo+inmkt+aff_all_18-54&campaign=google-ads&type=search&gad_source=1&gclid=CjwKCAjw1K-zBhBIEiwAWeCOF5ZVVMGJkIz0eogShM7RFWz9hm_eojdN7sKq1MUiWT40gkWPW7BVLRoC6JsQAvD_BwE) 
+- [x] task list
+# Using emojis:
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
+[All the emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+# Footnotes:
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
