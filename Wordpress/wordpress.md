@@ -1,11 +1,12 @@
 # Table of Contents  
-- Projects
-    - [Newspaper website](#newspaper-website)
-    - [Blog Website](#blog-website)
-    - [WordPress installation and run WebSite in localhost](#wordpress-installation-and-run-website-in-localhost)
+- *Projects*
+    :one: [Newspaper website](#asterisk-newspaper-website)
+    :two: [Blog Website ](#asterisk-blog-website)
+- [WordPress installation and run WebSite in localhost](#wordpress-installation-and-run-website-in-localhost)
 ## Gigs 
 - I will transfer, migrate your website to a new domain or hosting 
 - I will create wordpress website with gutenberg and kadence block 
+- I will convert figma to wordpress or figma to elementor 
 
 ## set up new wordpress project basic settings
 - when creating a new wordpress project then delete post, page, appearance, plugins by default works
@@ -115,15 +116,43 @@
 ### Contact Form এর জন্য Plugin Add এবং Customization
 - Plugin: wpforms 
 - 
-## Newspaper website 
-- Theme: `NewsCard` theme activated > One click Demo import plugin
+## :asterisk: Newspaper website 
+- Theme: `NewsCard` theme activated > One click Demo import plugin :newspaper:
 - Plugins: `Easy table contents`, `max mega menu`, `Translate wordpress with GTranslate`, 
     1. `Easy table contents` align post heading together when a news post is bigger than normal 
     2. `Translate wordpress with GTranslate:` translate website language
 - using default theme customization change logo and home page different section customization
 -   
 
-## Some important things Newspaper and Blog website 
+## Local Host to Hosting Server website migration 
+- WordPress Website migrations or transfer 
+- plugin: `All in one WP Migration` 
+## :asterisk: Blog Website 
+> :heavy_check_mark: **Project CheckList:**  
+- [x] blog theme install
+- [x] How to write a perfect SEO friendly Blog Post using ChatGPT?
+- [x] How to promote affiliate products & offers in website?
+- [x] show cookie in website : all using free resources
+- [x] features add using different plugins 
+- [x] How to make website GDPR(General Data Protection Regulation) 
+> :beginner: **Theme**
+- `Astra:` 
+> :electric_plug: **Plugins:**
+- `Easy Table of Contents:` 
+- `Rank Math SEO:` 
+- `cookieYes:` 
+- `Affiliate coupons:`
+- `Guest Submitted post:`
+> **How to write a perfect SEO friendly Blog Post using ChatGPT?**
+- WordPress Affiliate Blog Digital Product
+    - `Topic:` wordpress themes, shopify themes, wordpress Plugin, shopify apps, wix, squarespace, Webflow, Flutter, WordPress SEO, Digital Marketing 
+    - `ChatGPT command for article title:` Suggest me some SEO friendly Title for an article with the focus keyword "Best wordpress theme for E-commerce"
+> **features add using different plugins**
+- `Guest Submitted post:`
+- set up project
+- `cookies:` Cookies are small pieces of text sent to your browser by a website you visit. They help that website remember information about your visit, which can both make it easier to visit the site again and make the site more useful to you.
+    
+> **Some important things Newspaper and Blog website** 
 - Guest Posting: -`user submitted post` 
 - Cookies notice:  `cookieYes` 
 - Sassy social media links: `Sassy` 
@@ -131,32 +160,6 @@
 - Keyboard Research  
 - On page SEO 
 - Google Search Console 
-## Local Host to Hosting Server website migration 
-- WordPress Website migrations or transfer 
-- plugin: `All in one WP Migration` 
-## Blog Website 
-- :heavy_check_mark: **CheckList:**  
-- [x] blog theme install,
-- [x] SEO friendly Blog post using chatGPT, 
-- [x] features add using different plugins,
-- [x] Affiliate offers of promote different products in website,
-- [x] show cookie in website : all using free resources,
-- [x] How to write a perfect SEO friendly Blog Post?,
-- [x] How to promote affiliate product & offers?,
-- [x] How to make website GDPR(General Data Protection Regulation) 
-- :beginner: **Theme**
-    - `Astra:` 
-- :electric_plug: **Plugins:**
-    - `Easy Table of Contents:` 
-    - `Rank Math SEO:` 
-    - `cookieYes:` 
-    - `Affiliate coupons:`
-
-- set up project
-- `cookies:` Cookies are small pieces of text sent to your browser by a website you visit. They help that website remember information about your visit, which can both make it easier to visit the site again and make the site more useful to you.
-    
-    
-
 
 
 ## Script for marketing my work / how to sell my work
