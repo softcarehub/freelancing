@@ -1,15 +1,18 @@
 # Table of Contents  
-- *Projects*
-    :one: [Newspaper website](#asterisk-newspaper-website)
-    :two: [Blog Website ](#asterisk-blog-website)
-- [WordPress installation and run WebSite in localhost](#wordpress-installation-and-run-website-in-localhost)
+- *10 WordPress Projects*
+    :one: [Portfolio Website](#asterisk-portfolio-website)
+    :two: [company website](#asterisk-company-website)
+    :three: [Newspaper website](#asterisk-newspaper-website)
+    :four: [Blog Website ](#asterisk-blog-website)
+    :five: [Agency or Law Firm Website](#asterisk-agency-or-law-firm-website)
+- [WordPress installation and run WebSite in localhost](#wordpress-installation-and-run-website-in-localhost) 
 ## Gigs 
 - I will transfer, migrate your website to a new domain or hosting 
 - I will create wordpress website with gutenberg and kadence block 
 - I will convert figma to wordpress or figma to elementor 
 
 ## set up new wordpress project basic settings
-- when creating a new wordpress project then delete post, page, appearance, plugins by default works
+- when creating a new wordpress project then delete post, page, appearance, plugins by default works 
 - setting > permalinks > post name > appearance
 - setting > general > projects site title and  taglilne 
 - Search best theme, plugin on your project topic in youtube and google 
@@ -116,6 +119,32 @@
 ### Contact Form এর জন্য Plugin Add এবং Customization
 - Plugin: wpforms 
 - 
+
+## :asterisk: Portfolio Website 
+> :heavy_check_mark: **Project CheckList:**  
+- [x] Edit And Resize your Image perfectly for your portfolio Website
+- [x] Website Logo  
+- [x] Learn to create a Perfect CV: Resumemaker .online
+- [x] How to create a perfect Video for your services 
+- [x] Create a perfect frontend for your portfolio Website
+> :beginner: **Theme**  
+- `Astra:` 
+> :electric_plug: **Plugins:** 
+- Elementor template
+
+## :asterisk: Company Website 
+> :heavy_check_mark: **Project CheckList:**   
+- [x] Booking form 
+- [x] Newsletter form 
+> :beginner: **Theme**
+- `Astra:` 
+> :electric_plug: **Plugins:**
+- `wpforms` 
+- `elementor` 
+- `Mailchip`
+- `Happy addons for elementor`
+> **How to add Booking form**
+
 ## :asterisk: Newspaper website 
 - Theme: `NewsCard` theme activated > One click Demo import plugin :newspaper:
 - Plugins: `Easy table contents`, `max mega menu`, `Translate wordpress with GTranslate`, 
@@ -124,9 +153,6 @@
 - using default theme customization change logo and home page different section customization
 -   
 
-## Local Host to Hosting Server website migration 
-- WordPress Website migrations or transfer 
-- plugin: `All in one WP Migration` 
 ## :asterisk: Blog Website 
 > :heavy_check_mark: **Project CheckList:**  
 - [x] blog theme install
@@ -161,6 +187,23 @@
 - On page SEO 
 - Google Search Console 
 
+
+## :asterisk: Agency or Law Firm Website  
+> :heavy_check_mark: **Project CheckList:**   
+- [x] Booking form 
+- [x] Newsletter form 
+> :beginner: **Theme** 
+- `Astra:` 
+> :electric_plug: **Plugins:** 
+- `elementor` 
+- `wpforms` 
+- `starter templates`
+- `The Pack Elementor:` ready made section created
+> **How to add Booking form**  
+
+## Local Host to Hosting Server website migration 
+- WordPress Website migrations or transfer 
+- plugin: `All in one WP Migration` 
 
 ## Script for marketing my work / how to sell my work
 - I know how to transfer/migrate your website from local server to hosting server. Maybe you know that WordPress page builder gutenberg is more faster than elementor page builder, I know how to use gutenberg wordpress default editor perfectly.
