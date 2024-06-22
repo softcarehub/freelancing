@@ -47,9 +47,8 @@
    8. Member service Request Lead 
 
 #### 4. Lead Generation stage:
-   - ![ Lead Generation stage:](/Email_Marketing/images/leadstage.png)
+   - ![ Lead Generation stage:](/Email_Marketing/images/leadstage.png) 
    - collect lead organic way 
-
 
 #### 5. List/Leads organize 
    - categories(groups) 
