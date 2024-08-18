@@ -12,9 +12,11 @@
 
 ## Gigs
 
-- I will transfer, migrate your website to a new domain or hosting
-- I will create wordpress website with gutenberg and kadence block
-- I will convert figma to wordpress or figma to elementor
+- I will transfer, migrate your website to a new domain or hosting 
+- I will create wordpress website with gutenberg and kadence block 
+- I will convert figma to wordpress or figma to elementor 
+   - I will convert xd, PSD, Figma to wordpress elementor pro. 
+- 
 
 # Theme
 - Divi theme: Divi isn't just a WordPress theme, it's a complete design framework that allows you to design and customize every part of your website from the ground up. You have control over everything down to the finest detail. Create the perfect websites for you and your clients.
@@ -41,7 +43,9 @@
 - Post name is SEO friendly permalink
 - In general Settings: Site title and tagline important for SEO
 - Breadcrumb
-
+- ChatGPT command:
+   - suggest some SEO friendly title for an article with the focus keyword "5 best WooCommerce Plugin for sales"
+   - write me a website about page content "wordpress", "shopify", "WIX", "Digital Marketing" 
 ## How to income money by this course
 
 - Freelancing
@@ -49,7 +53,7 @@
 - Local marketplace e different company er jonno website toyri kore
 
 ## How to buy domain hosting
-
+- ![Domain Hosting](/Wordpress/images/domain%20hosting.png)
 - Trusted in Bangladesh: For Desi client-Hosting Bangladesh(For good budget BDIX hosting, low budget ssd hosting),
   -Trusted in Out of Bangladesh: For foreign client-Hostinger(Low budget Web Hosting ), If client-Budget Good then cloud hosting and VPS hosting middle range budget
   -wordpress hosting only for WordPress site hosting
@@ -662,8 +666,40 @@ By combining these design ideas, you can create an eCommerce website that is not
   > :beginner: **Theme**
 - WooCommerce
 - 
-  > :electric_plug: **Plugins:**
+  > :electric_plug: **Plugins:** 
 - Elementor template
+## :asterisk: Restaurant website 
+
+> :heavy_check_mark: **Project CheckList:**
+
+- [x] Use of WooCommerce Plugin
+  > :beginner: **Theme**
+- Astra 
+  > :electric_plug: **Plugins:**
+- Food store 
+- WooCommerce 
+- Starter template 
+## :asterisk: Travel Agency website 
+
+> :heavy_check_mark: **Project CheckList:**
+
+- [x] Use of WooCommerce Plugin 
+  > :beginner: **Theme**
+- Astra 
+  > :electric_plug: **Plugins:**
+- Wp travel engine 
+
+## Website-এর Speed Test free tools
+- GTmetrix
+- pingdom
+- pages speed insights 
+
+## Website Hack হওয়া থেকে রক্ষার সেরা টিপস এন্ড ট্রিক্স
+- All in one security
+- 
+
+## Caching Plugin কী? Caching Plugin ব্যাবহার করে Website-কে Fast Load করার পদ্ধতি
+
 
 ## Wordpress.com
 
@@ -829,6 +865,33 @@ By combining these design ideas, you can create an eCommerce website that is not
   > :electric_plug: **Plugins:**
 - `all plugins which is associated with travel monster`
   > **Demo Importer plus**
+## :asterisk: Arong Website 
+
+> :heavy_check_mark: **Project CheckList:**
+
+- [x] Install theme and plugins
+- [x] live chat plugin
+  > :beginner: **Theme**
+- Astra 
+  > :electric_plug: **Plugins:**
+- starter template
+- invoice WooCommerce
+- Ti wishlist 
+- addonify Compare 
+- leo product  recommendations
+- Tidio live chat 
+## :asterisk: daraz Website 
+
+> :heavy_check_mark: **Project CheckList:**
+
+- [x] Install theme and plugins
+  > :beginner: **Theme**
+- Royal shop
+  > :electric_plug: **Plugins:**
+- MultivendorX Marketplace
+- WCFM Marketplace 
+- Dokan 
+
 
 ## Local Host to Hosting Server website migration
 
