@@ -10,6 +10,11 @@
   :five: [Agency or Law Firm Website](#asterisk-agency-or-law-firm-website)  
   :six:  [Tour & travel website-1](#asterisk-tour--travel-website-1)
 
+## ChatGPT দিয়ে Job Proposal Letter লিখার কলাকৌশল
+- ChatGPT Command: 
+   - write me a job proposal letter for "WordPress E-commerce website designer with WooCommerce with Booking Forms Integration" 
+
+
 ## Gigs
 
 - I will transfer, migrate your website to a new domain or hosting 
@@ -46,6 +51,7 @@
 - ChatGPT command:
    - suggest some SEO friendly title for an article with the focus keyword "5 best WooCommerce Plugin for sales"
    - write me a website about page content "wordpress", "shopify", "WIX", "Digital Marketing" 
+   - Write me a website about us page content for a company who is providing wordpress, shopify, wix and digital marketing services. 
 ## How to income money by this course
 
 - Freelancing
