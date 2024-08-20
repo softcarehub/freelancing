@@ -21,7 +21,19 @@
 - I will create wordpress website with gutenberg and kadence block 
 - I will convert figma to wordpress or figma to elementor 
    - I will convert xd, PSD, Figma to wordpress elementor pro. 
-- 
+-
+## Get job out of marketplace 
+- Local client- Facebook Boosting 
+- Global Agency Buyer clutch 
+- Google Paid Advertising 
+- Do SEO continuously 
+- ![Text](/Wordpress/images/important.png)
+## Fiverr 
+- ![alt text](/Wordpress/images/fiverr1.png)
+## upwork
+- ![alt text](/Wordpress/images/upwork.png) 
+- ![alt text](/Wordpress/images/upwork2.png) 
+- ![alt text](/Wordpress/images/upwork3.png) 
 
 # Theme
 - Divi theme: Divi isn't just a WordPress theme, it's a complete design framework that allows you to design and customize every part of your website from the ground up. You have control over everything down to the finest detail. Create the perfect websites for you and your clients.
