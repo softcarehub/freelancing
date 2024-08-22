@@ -55,6 +55,23 @@
 - Lite weights theme in WordPress: Astra, Astra's starter template is a plugin
 -
 - 
+
+## :asterisk: Landing Page 
+
+> :heavy_check_mark: **Project CheckList:**
+
+- [x] Install theme and plugins
+  > :beginner: **Theme**
+- Hero theme 
+  > :electric_plug: **Plugins:**
+- Elementor
+   - Settings>General> Disable default colors and font
+   - Settings>features > flexbox container > Active
+   - Settings> Advanced > Enable Unfiltered File Uploads
+
+
+
+
 ## WordPress SEO
 
 - Post name is SEO friendly permalink
