@@ -1,11 +1,15 @@
 # Table of contents
 
+
+## important note
+- Note: মনে রাখবেন, যদি On Page SEO ঠিকমতো না করেন। তাহলে অফ পেজ এসইও কোনো কাজে আসবে না
+- 
 ## SEO Basic idea
 - The Four main types of SEO are on-page, off-page/backlinks, Local SEO and technical seo. 
     1. `On-page SEO:` Includes anything you do with your website's content, such as using relevant keywords. This includes blogs, product copy, and web copy.   
     2. `off-page SEO:` Includes anything you do outside of your website to improve rankings, such as building backlinks. This is also called off-site SEO.  
     3. `Local SEO:` Local SEO strategy for local businesses is one of the most important types of SEO as it helps the business become more visible in local search results on Google.
-    Local SEO helps businesses reach the local audience by analyzing their behavior through trillions of searches. If you use local SEO practices, then your local business has the opportunity to rank higher in the search results and the local map pack at the same time. This, in turn, helps grow your business and increase traffic to your website.
+   ` Local SEO helps businesses reach the local audience by analyzing their behavior through trillions of searches.` If you use local SEO practices, then your local business has the opportunity to rank higher in the search results and the local map pack at the same time. This, in turn, helps grow your business and increase traffic to your website.
     4. `Technical SEO:` Includes anything you do on the technical side of things, such as improving page speed. This includes site indexing to help bot crawling. 
 - In another way seo can be used in two ways: Black hat technique and white hat technique  
     1. white hat technique: on page, off page/backlinks and technical 
@@ -22,7 +26,8 @@
     1. User Intent  
     2. Understanding Business 
     3. Always update: google change their algorithm
-
+## On page SEO 
+- ![post](/SEO/images/SEO.png)
 ## Keyword Search
 - Pa =  page authority, da= domain authority
 - keyword: ja google e search kori
@@ -32,9 +37,9 @@
  Location -  united states 
 - Kd -  keyword difficulties
  1-30 = law kd= easy= we will beat it
- 30-50=medium kd
- 50+ = high kd
- - sv= search volume 100+ = have to be minimum 100
+ 30-50=medium kd 
+ 50+ = high kd 
+ - sv= search volume 100+ = have to be minimum 100 
 
 1. Extension : keywords collection free
     - [keyword surfer](https://chromewebstore.google.com/detail/bafijghppfhdpldihckdcadbcobikaca)
@@ -43,7 +48,8 @@
     - [trends google](https://trends.google.com/trends/explore?hl=en) 
     - [keyword difficulty tools](https://ahrefs.com/keyword-difficulty) 
     - Youtube, Google ar niche upore side a 
-
+## off-page SEO/backlinks 
+- 
 ## Technical SEO
 - Here are some technical SEO issues that can affect your search engine optimization (SEO):
     1. `Duplicate content: `This is a common problem for e-commerce websites, and can cause your site to appear lower in search results.
