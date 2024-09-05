@@ -3,7 +3,12 @@
 
 ## important note
 - Note: মনে রাখবেন, যদি On Page SEO ঠিকমতো না করেন। তাহলে অফ পেজ এসইও কোনো কাজে আসবে না
-- 
+- `Indexability` means that you allow search engines to show your site's pages in the search results. If your site is crawlable and indexable, that's excellent! If it's not, you can be losing out on a lot of potential traffic from Google's search results.
+- `Crawlability` means that search engine crawlers can read and follow links in your site's content. You can think of these crawlers like spiders following tons of links across the web. Indexability means that you allow search engines to show your site's pages in the search results.
+- `A sitemap` is a complete outline of your website that benefits search engines and the people navigating your site. Written by Abbey Stephan. Last Updated November 13, 2023. Having a sitemap is crucial for boosting your rankings and helping search engines crawl your site.
+- `Mobile-friendliness` in SEO means a website is optimized for viewing on mobile devices, ensuring easy reading and navigation. Google considers this as a ranking factor, so mobile-optimized sites are likely to rank higher in search results. 
+- `Page speed` (also called “load speed”) measures how fast the content of a page loads. From an SEO standpoint, having a fast page speed is essential. Many factors, such as your web hosting and your page size, affect page load speed.
+- `Duplicate content` is content which is available on multiple URLs on the web. Because more than one URL shows the same content, search engines don't know which URL to list higher in the search results. Therefore they might rank both URLs lower and give preference to other webpages.
 ## SEO Basic idea
 - The Four main types of SEO are on-page, off-page/backlinks, Local SEO and technical seo. 
     1. `On-page SEO:` Includes anything you do with your website's content, such as using relevant keywords. This includes blogs, product copy, and web copy.   
@@ -16,8 +21,9 @@
     2. black hat technique: Don't follow google guidelines for seo. It's use of early ranking of website but at a time it's ruin website ranking.
 - Two types of Google Search results: 1. paid(sponsored) results 2. Organic results by seo
 - First we have to do on-page seo, for on page seo we need to do keyword research..if keyword research good then seo will be good. 
+Website authority, also known as domain authority (DA), is a ranking metric used to predict how well a website will rank on search engines. It was created by Moz where websites are assigned a score from 1 to 100 that shows the relevance of the website in its industry or with respect to a specific topic.
 - Google wants: 
-    1. Trust
+    1. Trust 
     2. Pure Information 
     3. Straight & Simple 
     4. Sustainable 
@@ -29,6 +35,7 @@
 ## On page SEO 
 - ![post](/SEO/images/SEO.png)
 ## Keyword Search
+- 
 - Pa =  page authority, da= domain authority
 - keyword: ja google e search kori
 - Three types of keywords: Short tail(one to two words), medium tail(three), long tail(More than four words)
@@ -49,8 +56,8 @@
     - [keyword difficulty tools](https://ahrefs.com/keyword-difficulty) 
     - Youtube, Google ar niche upore side a 
 ## off-page SEO/backlinks 
-- 
-## Technical SEO
+- ![alt text](image.png) 
+## Technical SEO 
 - Here are some technical SEO issues that can affect your search engine optimization (SEO):
     1. `Duplicate content: `This is a common problem for e-commerce websites, and can cause your site to appear lower in search results.
     2. `Page speed:` Users expect websites to load in seconds, and will leave if they are slow. You can improve page speed by using a good host and browser caching.
